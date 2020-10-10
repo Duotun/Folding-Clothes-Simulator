@@ -9,6 +9,8 @@ Two-sided shader was developed for rendering clothes model in Unity. All the clo
 Two folding ways were achived:
 1. 2D Pixel-level Control with TCP Service
 
-![ClothesVR](https://github.com/Duotun/Folding-Clothes-Simulator/blob/main/Demos/ClothesTCP.gif)
+    ![ClothesTCP](https://github.com/Duotun/Folding-Clothes-Simulator/blob/main/Demos/ClothesTCP.gif)
 
 2. Arbitrary folding in Virtual Reality
+
+    ![ClothesVR](https://github.com/Duotun/Folding-Clothes-Simulator/blob/main/Demos/ClothesVR.gif)
