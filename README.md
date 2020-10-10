@@ -7,5 +7,6 @@ We achieved model smooth method and added more strict distance and rotation cons
 Two-sided shader was developed for rendering clothes model in Unity. All the clothes model were created in Maya.
 
 Two folding ways were achived:
-1.  s
-2. s
+1. 2D Pixel-level Control with TCP Service
+![ClothesVR](https://github.com/Duotun/Folding-Clothes-Simulator/tree/main/Demos/ClothesTCP.gif)
+2. Arbitrary folding in Virtual Reality
